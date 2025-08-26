@@ -1,4 +1,4 @@
-# Customer Segmentation Analysis
+# Customer Segmentation
 
 A data science project using K-Means clustering to identify distinct customer segments for targeted marketing strategies.
 
@@ -111,20 +111,6 @@ After extensive data exploration and feature engineering, the analysis focused o
 - **Scikit-learn**: Machine learning algorithms and metrics
 - **Matplotlib/Seaborn**: Data visualization
 - **Jupyter Notebook**: Development environment
-
-## Project Structure
-
-```
-├── data/
-│   └── customer_data.csv
-├── notebooks/
-│   ├── 01_exploratory_data_analysis.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   └── 03_customer_segmentation.ipynb
-├── src/
-│   └── segmentation_model.py
-└── README.md
-```
 
 ## Future Enhancements
 
